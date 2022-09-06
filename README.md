@@ -80,7 +80,7 @@ space ::= " "
 
 In a Linux-like system, first install Haskell GHC and then
 ```sh
-(base) alessio@alessio:~$ ghci
+$ ghci
 GHCi, version 8.8.4: https://www.haskell.org/ghc/  :? for help
 Prelude> :load "PATH in which is file INP.hs"
 [1 of 1] Compiling Main             ( "PATH in which is file INP.hs", interpreted )
